@@ -2,6 +2,7 @@
 A web scraper written in python using Beautiful Soup which scrapes the most popular laptop's prices.
 
 Sources used:
+
 Initial idea/inspiration:
 https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
 
